@@ -38,7 +38,7 @@ If everything goes well, you will be ready to fetch your first real exercise.
 This is an exercise to introduce users to using Exercism - https://en.wikipedia.org/wiki/%22Hello,_world!%22_program
 
 ### Download Command
-exercism download --track=csharp --exercise=hello-world
+`exercism download --track=csharp --exercise=hello-world`
 
 ### Submission Command
-exercism submit "Exercism\csharp\hello-world\HelloWorld.cs"
+`exercism submit "Exercism\csharp\hello-world\HelloWorld.cs"`
