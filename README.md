@@ -1,5 +1,15 @@
 ![Banner](Data/Images/CSharp-Exercism-S00E01-Setup-HelloWorld-Banner.png)
 
+### CSharp-Exercism-S00E01-Setup-HelloWorld
+
+This repository my work for the [Exercism](https://exercism.org/) C# track.
+
+### Download Command
+`exercism download --track=csharp --exercise=hello-world`
+
+### Submission Command
+`exercism submit "Exercism\csharp\hello-world\HelloWorld.cs"`
+
 # Hello World
 
 Welcome to Hello World on Exercism's C# Track.
@@ -36,9 +46,3 @@ If everything goes well, you will be ready to fetch your first real exercise.
 ### Based on
 
 This is an exercise to introduce users to using Exercism - https://en.wikipedia.org/wiki/%22Hello,_world!%22_program
-
-### Download Command
-`exercism download --track=csharp --exercise=hello-world`
-
-### Submission Command
-`exercism submit "Exercism\csharp\hello-world\HelloWorld.cs"`
