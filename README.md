@@ -10,6 +10,8 @@ This repository my work for the [Exercism](https://exercism.org/) C# track.
 ### Submission Command
 `exercism submit "Exercism\csharp\hello-world\HelloWorld.cs"`
 
+![Banner](Data/Images/CSharp-Exercism-S00-HelloWorld-Title.png)
+
 # Hello World
 
 Welcome to Hello World on Exercism's C# Track.
